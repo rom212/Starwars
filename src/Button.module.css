@@ -1,0 +1,10 @@
+button{
+    background-color: #4CAF50; /* Green */
+    border: solid 1px white;
+    border-radius: 4px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    margin: 1rem;
+    display: inline-block;
+  }
