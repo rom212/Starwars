@@ -6,7 +6,7 @@ function Nav(props){
     return(
         <div className={styles.main}>
             <Button onClick={props.updatePeople}>Fetch Star Wars</Button>
-            <Button>Clear Results</Button>
+            <Button onClick={props.clearPeople}>Clear Results</Button>
         </div>
     );
 }
